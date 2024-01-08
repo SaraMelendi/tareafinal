@@ -1,9 +1,9 @@
 <html>
 	<head>
-		<title>TÍTULO</title>
+		<title>Prueba de PHP</title>
 		<link href=”estilos.css”>
 	</head>
 	<body>
-		<?php echo '<p>Hola Mundo</p>'; ?>
+		<?php echo '<p>Hola amigos</p>'; ?>
 	</body>
 </html>
