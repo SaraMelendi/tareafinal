@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title>Prueba de PHP</title>
-		<link href=”estilos.css”>
+		<link href=”misapp.js>
 	</head>
 	<body>
 		<?php echo '<p>Hola amigos</p>'; ?>
